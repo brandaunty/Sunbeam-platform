@@ -1,9 +1,9 @@
 # Sunbeam Electricity Distribution: Architecture Decisions
 
-Student number last digit D: **[FILL IN]**
-Scale tier: **[Small (D 0-4): 200,000 meters, 500 feeders / Standard (D 5-9): 400,000 meters, 1,000 feeders]**
-My feeders: **[feeders ending in D]**
-Task 4 incident: **[D mod 4 = 0 contractor login / 1 SA region outage / 2 NDPC letter / 3 Lagos closure]**
+Student number last digit D: **0**
+Scale tier: **Small (200,000 meters, 500 feeders)**
+My feeders: **Feeder 0 (Urban)**
+Task 4 incident: **Remainder 0: a contractor's login was used to download part of the data lake**
 
 ---
 
