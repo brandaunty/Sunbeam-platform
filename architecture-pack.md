@@ -1,6 +1,6 @@
 # Sunbeam: Task 1 Architecture Pack
 
-D = [FILL IN] | Tier = [FILL IN] | My feeders = [FILL IN] | Task 4 incident = [FILL IN]
+D = 0 | Tier = Small (200,000 meters, 500 feeders) | My feeders = Feeder 0 (urban) | Task 4 incident = Contractor login used to download part of the data lake
 
 **Who and why.** The field revenue officer is a Sunbeam staff member on a phone, assigned to a set of feeders, reporting tampering, bypass and wrong mapping. Every workload below serves one of three decisions: **(A)** which feeders to visit this month, **(B)** is there an outage on a feeder now (within 15 minutes), **(C)** is this estimated bill justified and can this disconnection be reviewed.
 
